@@ -1,4 +1,9 @@
 # 📰 NewsLens
+## 🚀 Live Demo
+
+👉 [Try NewsLens Live](https://news-lens-phase1.streamlit.app/)
+
+> Phase 1 is currently deployed and fully functional.
 
 ### AI-Assisted Media Literacy & Information Analysis
 
