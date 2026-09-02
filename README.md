@@ -5,7 +5,7 @@
 
 > Phase 1 is currently deployed and fully functional..
 
-### AI-Assisted Media Literacy & Information Analysis..
+### AI-Assisted Media Literacy & Information Analysis...
 
 > **Understand how information is presented before you believe it..**
 
