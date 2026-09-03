@@ -7,7 +7,7 @@
 
 ### AI-Assisted Media Literacy & Information Analysis...
 
-> **Understand how information is presented before you believe it..**
+> **Understand how information is presented before you believe it...**
 
 NewsLens is an AI-assisted web application that analyzes the **language and presentation style of news content**..
 
