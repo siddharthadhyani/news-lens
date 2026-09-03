@@ -57,4 +57,5 @@ Example:
 Positive
 Negative
 Neutral
-Mixed / Unclear
+Mixed
+Unclear
