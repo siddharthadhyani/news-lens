@@ -20,7 +20,7 @@ Instead of immediately deciding whether a news story is true or false, NewsLens 
 News consumers are exposed to large amounts of information every day. Headlines and articles can influence readers through..:
 
 - Sensational language.
-- Emotional framing
+- Emotional framing.
 - Loaded words.
 - Strong positive or negative language
 - Claims presented without immediate context
