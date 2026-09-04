@@ -15,7 +15,7 @@ Instead of immediately deciding whether a news story is true or false, NewsLens 
 
 ---
 
-## 🎯 Problem Statement...
+## 🎯 Problem Statement....
 
 News consumers are exposed to large amounts of information every day. Headlines and articles can influence readers through..:
 
