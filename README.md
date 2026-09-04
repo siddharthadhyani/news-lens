@@ -21,7 +21,7 @@ News consumers are exposed to large amounts of information every day. Headlines 
 
 - Sensational language..
 - Emotional framing.
-- Loaded words.
+- Loaded words..
 - Strong positive or negative language.
 - Claims presented without immediate context
 
