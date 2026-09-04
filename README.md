@@ -34,7 +34,7 @@ NewsLens helps users become more aware of these presentation signals before acce
 NewsLens takes a piece of news text and performs multiple analyses.:
 
 1. **Tone Analysis**
-2. **Content Type Classification**
+2. **Content Type Classification.**
 3. **Sensationalism Detection**
 4. **Emotional Framing Analysis**
 5. **Loaded Language Detection**
